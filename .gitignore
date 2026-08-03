@@ -16,3 +16,9 @@ build/
 local.properties
 .env
 debug.keystore
+
+*.zip
+*.apk
+app/release/
+gradle.zip
+metadata.json
